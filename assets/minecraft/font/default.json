@@ -1,0 +1,1489 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/admin.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⦽"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/administrator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤞"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/builder.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤟"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/designer.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤠"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/dev.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤡"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/developer.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤢"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/helper.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤣"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jradmin.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤤"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jradministrator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤥"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrbuilder.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤦"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrdev.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤧"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrdeveloper.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤨"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrhelper.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤩"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrmod.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤪"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrmoderator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤫"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/mod.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤬"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/moderator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤭"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/owner.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤮"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/player.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤯"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/sradmin.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤰"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/sradministrator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤱"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srbuilder.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤲"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srdev.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤳"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srdeveloper.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤴"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srhelper.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤵"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srmod.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤶"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srmoderator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤷"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/staff.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤸"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/support.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤹"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/booster.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤺"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/discordnpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⤻"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/facebook.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤼"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/facebooknpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⦾"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/famous.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤾"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/instagram.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⦧"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/instagramicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⧒"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/instagramnpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⦤"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/kick.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥁"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/kicknpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⥂"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/patreonnpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⥃"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/patron.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥄"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/reddit.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥅"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/redditnpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⥆"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/social.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥇"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/tiktok.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥈"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/tiktoknpc.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⦠"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twitch.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥉"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twitchnpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⥊"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twitter.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥋"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twitternpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⥌"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/youtube.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥍"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/youtubenpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⥎"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/adminicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥏"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/boostericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥐"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/buildericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥑"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/designericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥒"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/developericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥓"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/discordicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥕"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/facebookicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥖"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/famousicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥗"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/helpericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥘"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/kickicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥙"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/moderatoricon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥚"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/ownericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥛"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/patronicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥜"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/playericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥝"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/redditicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥞"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/socialicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥟"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/stafficon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥠"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/supporticon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥡"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/tiktokicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⦡"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twitchicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥣"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twittericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥤"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/youtubeicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥥"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/host.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤽"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/warrior.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⤿"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/warrior_plus.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥀"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/manager.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥦"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/storenpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⥧"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/tierinfo.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⥨"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/kiteditor.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        "⥩"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/macewars_logo.png",
+      "ascent": 26,
+      "height": 32,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/admin.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/administrator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/builder.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/designer.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/dev.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/developer.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/helper.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jradmin.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jradministrator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrbuilder.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrdev.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrdeveloper.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrhelper.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrmod.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/jrmoderator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/mod.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/moderator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/owner.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/player.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/sradmin.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/sradministrator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srbuilder.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srdev.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srdeveloper.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srhelper.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srmod.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/srmoderator.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/staff.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/support.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/booster.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/discordnpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/facebook.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/facebooknpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/famous.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/instagram.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/instagramicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/instagramnpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/kick.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/kicknpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/patreonnpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/patron.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/reddit.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/redditnpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/social.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/tiktok.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/tiktoknpc.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twitch.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twitchnpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twitter.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twitternpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/youtube.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/youtubenpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/adminicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/boostericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/buildericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/designericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/developericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/discordicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/facebookicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/famousicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/helpericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/kickicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/moderatoricon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/ownericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/patronicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/playericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/redditicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/socialicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/stafficon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/supporticon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/tiktokicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twitchicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/twittericon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/youtubeicon.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/host.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/warrior.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/warrior_plus.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/manager.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/storenpc.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/tierinfo.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/kiteditor.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/shoppingcart.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "⥪"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefixes/shoppingcart.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

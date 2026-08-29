@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "flame_spear",
+        "model": {
+          "type": "minecraft:model",
+          "model": "macewars:flame_spear"
+        }
+      },
+      {
+        "when": "gladiator_sword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "macewars:gladiator_sword"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_sword"
+    }
+  }
+}

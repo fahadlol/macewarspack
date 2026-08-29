@@ -1,0 +1,47 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "chainsaw",
+        "model": {
+          "type": "minecraft:model",
+          "model": "macewars:chainsaw"
+        }
+      },
+      {
+        "when": "iron_shortaxe_1.1.0",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moreironshortaxes:iron_shortaxe_1.1.0"
+        }
+      },
+      {
+        "when": "iron_shortaxe_1.2.0",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moreironshortaxes:iron_shortaxe_1.2.0"
+        }
+      },
+      {
+        "when": "iron_shortaxe_1.3.0",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moreironshortaxes:iron_shortaxe_1.3.0"
+        }
+      },
+      {
+        "when": "iron_shortaxe_1.4.0",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moreironshortaxes:iron_shortaxe_1.4.0"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_axe"
+    }
+  }
+}
