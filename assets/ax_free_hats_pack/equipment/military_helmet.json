@@ -1,9 +1,1 @@
-{
-  "layers": {
-    "humanoid": [
-      {
-        "texture": "ax_free_hats_pack:military_helmet"
-      }
-    ]
-  }
-}
+{"layers":{"humanoid":[{"texture":"ax_free_hats_pack:x/9b723ff5621b"}]}}

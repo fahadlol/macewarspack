@@ -1,13 +1,1 @@
-{
-  "pack": {
-    "min_format": [
-      75,
-      0
-    ],
-    "max_format": [
-      75,
-      0
-    ],
-    "description": "MaceWars Resource Pack"
-  }
-}
+{"pack":{"pack_format":75,"min_format":75,"max_format":[88,0],"description":"MaceWars Resource Pack"}}

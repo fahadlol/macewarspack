@@ -1,9 +1,1 @@
-{
-  "layers": {
-    "humanoid": [
-      {
-        "texture": "ax_free_hats_pack:diving_helmet"
-      }
-    ]
-  }
-}
+{"layers":{"humanoid":[{"texture":"ax_free_hats_pack:x/92cebac74aea"}]}}
