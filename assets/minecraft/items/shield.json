@@ -37,18 +37,12 @@
       "type": "minecraft:condition",
       "property": "minecraft:using_item",
       "on_true": {
-        "type": "minecraft:special",
-        "base": "minecraft:item/shield_blocking",
-        "model": {
-          "type": "minecraft:shield"
-        }
+        "type": "minecraft:model",
+        "model": "ax_free_hats_pack:shield1_blocking"
       },
       "on_false": {
-        "type": "minecraft:special",
-        "base": "minecraft:item/shield",
-        "model": {
-          "type": "minecraft:shield"
-        }
+        "type": "minecraft:model",
+        "model": "ax_free_hats_pack:m/0f973051ec58"
       }
     }
   }
