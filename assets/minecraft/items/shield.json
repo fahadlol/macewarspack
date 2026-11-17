@@ -37,12 +37,42 @@
       "type": "minecraft:condition",
       "property": "minecraft:using_item",
       "on_true": {
-        "type": "minecraft:model",
-        "model": "ax_free_hats_pack:shield1_blocking"
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield_blocking",
+        "model": {
+          "type": "minecraft:shield"
+        }
       },
       "on_false": {
-        "type": "minecraft:model",
-        "model": "ax_free_hats_pack:m/0f973051ec58"
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield",
+        "model": {
+          "type": "minecraft:shield"
+        }
+      },
+      "transformation": {
+        "left_rotation": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "right_rotation": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          -1,
+          -1
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
       }
     }
   }
