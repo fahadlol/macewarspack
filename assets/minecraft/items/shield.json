@@ -1,1 +1,55 @@
-{"model":{"type":"minecraft:select","property":"minecraft:custom_model_data","cases":[{"when":"shield1","model":{"type":"minecraft:model","model":"ax_free_hats_pack:m/0f973051ec58"}},{"when":"gauntlet","model":{"type":"minecraft:model","model":"thanospack:m/7698d76acd67"}},{"when":"gauntlet_blocking","model":{"type":"minecraft:model","model":"thanospack:m/109f6d39363c"}}],"fallback":{"type":"minecraft:model","model":"minecraft:item/shield"}}}
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "shield1",
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "ax_free_hats_pack:shield1_blocking"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ax_free_hats_pack:m/0f973051ec58"
+          }
+        }
+      },
+      {
+        "when": "gauntlet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "thanospack:m/7698d76acd67"
+        }
+      },
+      {
+        "when": "gauntlet_blocking",
+        "model": {
+          "type": "minecraft:model",
+          "model": "thanospack:m/109f6d39363c"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_true": {
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield_blocking",
+        "model": {
+          "type": "minecraft:shield"
+        }
+      },
+      "on_false": {
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield",
+        "model": {
+          "type": "minecraft:shield"
+        }
+      }
+    }
+  }
+}
